@@ -1,3 +1,5 @@
 #ignore file list
-.ignore
-.testignore
+thisfile
+thatfile
+*.ignore
+*.testignore
